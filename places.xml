@@ -1,0 +1,4 @@
+<menu>
+	<button name="Desktop" command="explorer.exe"/>
+	<button name="Downloads" command="explorer.exe"/>
+</menu>

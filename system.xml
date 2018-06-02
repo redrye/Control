@@ -1,0 +1,4 @@
+<menu>
+	<button name="Shutdown" command="shutdown /f /s /t 0"/>
+	<button name="About" command=""/>
+</menu>

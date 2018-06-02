@@ -1,0 +1,5 @@
+<menu>
+	<button name="Bash" command="explorer.exe"/>
+	<button name="Powershell" command="explorer.exe"/>
+	<button name="CMD" command="explorer.exe"/>
+</menu>
